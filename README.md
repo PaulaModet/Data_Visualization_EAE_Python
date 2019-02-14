@@ -29,3 +29,11 @@ Asegurarse que este Python instalado en el ordenador y que Python, pip y todos l
 * Seaborn
 * Matplotlib.pyplot
 * RcParams
+
+# Participantes en el poryecto
+
+* Jorge Rodriguez
+* Fernando Lorenzo
+* Maria Macias
+* Alexander Mendoza
+* Paula Modet
