@@ -23,3 +23,9 @@ Instalar Python
 Asegurarse que este Python instalado en el ordenador y que Python, pip y todos los paquetes dependientes se instalen y sirvan desde el directorio del proyecto local para evitar problemas con los paquetes de todo el sistema y sus versiones.
 
 ## Instalar las librerias
+
+Pandas
+Datetime
+Seaborn
+Matplotlib.pyplot
+RcParams
