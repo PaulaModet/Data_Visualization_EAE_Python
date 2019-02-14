@@ -30,7 +30,7 @@ Asegurarse que este Python instalado en el ordenador y que Python, pip y todos l
 * Matplotlib.pyplot
 * RcParams
 
-# Participantes en el poryecto
+# Participantes en el proyecto
 
 * Jorge Rodriguez
 * Fernando Lorenzo
