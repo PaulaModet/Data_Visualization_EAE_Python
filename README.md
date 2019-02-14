@@ -24,8 +24,8 @@ Asegurarse que este Python instalado en el ordenador y que Python, pip y todos l
 
 ## Instalar las librerias
 
-Pandas
-Datetime
-Seaborn
-Matplotlib.pyplot
-RcParams
+* Pandas
+* Datetime
+* Seaborn
+* Matplotlib.pyplot
+* RcParams
