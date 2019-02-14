@@ -16,3 +16,10 @@ https://www.kaggle.com/sogun3/uspollution
 
 El archivo .csv usado en Jupyter Notebook es una base de datos sobre la contaminación de US, que contiene todos los estados de US con sus ciudades, y todos ellos medidos por cuatro gases diferentes: NO2, CO, SO2 y O3.
 
+# Prerequisitos
+
+Instalar Python
+
+Asegurarse que este Python instalado en el ordenador y que Python, pip y todos los paquetes dependientes se instalen y sirvan desde el directorio del proyecto local para evitar problemas con los paquetes de todo el sistema y sus versiones.
+
+## Instalar las librerias
